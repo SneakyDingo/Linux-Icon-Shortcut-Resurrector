@@ -56,7 +56,7 @@ Name=Icon Fix
 Exec=/home/sneakydingo/Desktop/iconfix.sh
 Icon=/home/sneakydingo/Desktop/iconfix_icon.png
 Terminal=true
-Name[en_US]=IconFixer
+Name[en_US]=Icon
 ```
 *PLEASE NOTE: The Icon path for this file IS NOT for the Brave Browser Icon, but for the iconfix shell script that we will use to run on start-up. You will have to find your own icon.*
 
