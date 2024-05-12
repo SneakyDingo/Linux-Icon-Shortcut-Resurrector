@@ -2,7 +2,8 @@
 Linux-Icon-Shortcut-Resurrector is a band aid solution to stop Linux from resetting your custom shortcut icons to default settings. Setting it up will take a few minutes, but it's not difficult.
 
 # Overview
-I'll have you create a master file of the .desktop file with the custom icon image included. Then, we'll execute a shell script to replace the original .desktop file with the master file. Lastly, we'll create a new .desktop file for the shell script, allowing Linux to run it automatically on startup. This ensures that the correct icon path is maintained without manual intervention.
+
+Maybe you've assigned a custom icon for a program, but every time the program is updated, it reverts back to the default icon. These instructions will allow you to run an executable script that will revert back to your desired icon. I'll have you create a master file of the .desktop file with the custom icon image included. Then, we'll execute a shell script to replace the original .desktop file with the master file. Lastly, we'll create a new .desktop file for the shell script, allowing Linux to run it automatically on startup. This ensures that the correct icon path is maintained without manual intervention.
 
 # Instructions
 
